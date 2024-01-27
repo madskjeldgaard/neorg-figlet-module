@@ -1,4 +1,4 @@
-require('neorg.modules.base')
+local neorg = require('neorg.core')
 
 local module = neorg.modules.create('external.integrations.figlet')
 
